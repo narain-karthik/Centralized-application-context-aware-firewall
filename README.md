@@ -1,6 +1,6 @@
 # Centralized-application-context-aware-firewall
 
-Development Company : Alpha Titans 👾🤖
+Development Team : Alpha Titans 👾🤖 <br>
 Content Mail ID: alpha_titans@yahoo.com
 
 We are developing a lightweight, context-aware application firewall solution aimed at improving network security and anomaly detection for endpoint applications. The project includes:
